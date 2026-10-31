@@ -1,0 +1,2 @@
+exit42: exit42.o
+    ld exit42.o -o exit42
