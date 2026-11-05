@@ -2,7 +2,7 @@
 
 Code for the Infinity Systems course: x86-64 assembly on Linux, with NASM, ld and GDB.
 
-- Videos: VIDEO_LINK_PLACEHOLDER
+- Videos: https://www.youtube.com/playlist?list=PLbVPAHO6JVA0
 - This repository: https://github.com/infinity-sys/assembly-from-zero
 
 ## The lab
