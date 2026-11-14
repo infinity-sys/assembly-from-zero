@@ -1,6 +1,6 @@
 # E09 · Bitwise Logic and Shifts: and, or, xor, not, shl, shr, sar
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/DoYpPwozXCY
 
 Build any program (Linux or WSL2; on macOS use the Docker lab from the main README):
 
