@@ -1,6 +1,6 @@
 # E12 · Loops in Assembly: Counting, while and for
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/w_K2bfLVgZQ
 
 Build any program (Linux or WSL2; on macOS use the Docker lab from the main README):
 
