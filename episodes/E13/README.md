@@ -1,6 +1,6 @@
 # E13 · Branchless Code: cmov and setcc
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/CnGN_4R6YdU
 
 Build any program (Linux or WSL2; on macOS use the Docker lab from the main README):
 
